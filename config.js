@@ -5,6 +5,6 @@
 // Jika dikosongkan dan bukan di Apps Script, aplikasi memakai penyimpanan lokal perangkat.
 window.APP_CONFIG = {
   APP_NAME: 'IPL Grand Sakha Huni',
-  API_URL: 'https://script.google.com/macros/s/AKfycbzNlOesQrn0GxqzlwDRqkGVqHXKY0y9uaGTyyETIwyuNGszEcBYx8p_lsrGjCuInYC0tg/exec',      // contoh: 'https://script.google.com/macros/s/AKfycb.../exec'
+  API_URL: 'https://script.google.com/macros/s/AKfycbwoMzTJpNFFUsV7iLkkU1fgBOKiHzi0z322CfUOOP8xR7qzAAnyt5glDJHczS0-Wfs2iQ/exec',      // contoh: 'https://script.google.com/macros/s/AKfycb.../exec'
   POLL_MS: 15000    // interval sinkronisasi (milidetik)
 };
